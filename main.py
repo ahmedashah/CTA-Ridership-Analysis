@@ -1,4 +1,3 @@
-#CS 341 Project 1
 #Name: Ahmed Shah
 #Console based Python program using input commands to retrieve data from
 #the SQL CTA2 L daily ridership database
